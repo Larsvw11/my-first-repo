@@ -1,3 +1,3 @@
 # my-first-repo
 ![foto van lars](lars.png)
-<img src="lars.png" alt="hallo" width="50">
+<img src="lars.png" alt="hallo" width="0.05">
